@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a0033,100:7F00FF&height=200&section=header&text=Berkay%20%C3%9C%C4%9Fe&fontSize=60&fontColor=E100FF&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%C2%B7%20%C3%96%C4%9Frenci%20Geli%C5%9Ftirici&descAlignY=60&descSize=18" alt="Berkay Üğe" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,60:1a0033,100:7F00FF&height=200&section=header&text=Berkay%20%C3%9C%C4%9Fe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%C2%B7%20%C3%96%C4%9Frenci%20Geli%C5%9Ftirici&descAlignY=60&descSize=18" alt="Berkay Üğe" />
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,40:1a0033,100:000000&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:7F00FF,40:1a0033,100:000000&height=120&section=footer" alt="" />
 </p>
